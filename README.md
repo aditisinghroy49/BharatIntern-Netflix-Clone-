@@ -1,2 +1,2 @@
-# BharatIntern-Netflix-Clone-
-My Web-Dev journey as an internee in Bharat Intern
+# Netflix-home-page
+This repo contains a clone of Netflix home page built using html and css.
